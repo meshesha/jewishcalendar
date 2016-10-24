@@ -17,3 +17,5 @@ Module features:
     Clock sources: client & GMT time based on server time
     Ability to ordering above options for view.
     Ability to add custom CSS.
+
+for more details: https://he-il.joomla.com/develop/jewishcalendar
