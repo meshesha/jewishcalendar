@@ -1,4 +1,4 @@
-# Jewish Calendar Module
+# Jewish Calendar Module for Joomla
 
 About Jewish date module
 
